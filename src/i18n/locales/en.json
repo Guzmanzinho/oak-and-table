@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "story": "Our Story",
+    "reserve": "Reserve"
+  },
+  "hero": {
+    "title": "Where good food meets good company",
+    "subtitle": "Discover modern Portuguese cuisine in an elegant and intimate atmosphere in the heart of Cascais.",
+    "cta": "Reserve via WhatsApp"
+  },
+  "menu": {
+    "title": "Culinary Journey",
+    "categories": {
+      "starters": "Starters",
+      "mains": "Mains",
+      "desserts": "Desserts",
+      "wines": "Wines"
+    },
+    "items": {
+      "s1": { "name": "Octopus Carpaccio", "desc": "Thinly sliced local octopus with smoked paprika and olive oil.", "price": "€16" },
+      "s2": { "name": "Alheira Croquettes", "desc": "Traditional game sausage croquettes with mustard aioli.", "price": "€12" },
+      "s3": { "name": "Burrata & Figs", "desc": "Fresh burrata, roasted figs, balsamic reduction, and walnuts.", "price": "€14" },
+      "m1": { "name": "Black Pork Pluma", "desc": "Grilled Iberian pork with sweet potato purée and asparagus.", "price": "€28" },
+      "m2": { "name": "Sealine Cod Loin", "desc": "Confit codfish, punched potatoes, garlic, and greens.", "price": "€26" },
+      "m3": { "name": "Wild Mushroom Risotto", "desc": "Creamy Arborio rice with distinct seasonal mushrooms and truffle.", "price": "€22" },
+      "d1": { "name": "Deconstructed Pastel de Nata", "desc": "Crispy puff pastry, velvety egg custard, and cinnamon ice cream.", "price": "€9" },
+      "d2": { "name": "Dark Chocolate Mousse", "desc": "70% cocoa mousse with sea salt and olive oil drizzle.", "price": "€10" },
+      "d3": { "name": "Almond Tart", "desc": "Traditional almond tart served with lemon sorbet.", "price": "€8" },
+      "w1": { "name": "Vinha Grande Douro Red", "desc": "Red wine. Notes of black fruit with elegant tannins.", "price": "€35" },
+      "w2": { "name": "Soalheiro Alvarinho", "desc": "White wine. Crisp, mineral, and perfectly balanced.", "price": "€28" },
+      "w3": { "name": "Cartuxa Colheita", "desc": "Red wine. A vibrant expression from the Alentejo region.", "price": "€42" }
+    }
+  },
+  "gallery": {
+    "title": "Atmosphere"
+  },
+  "story": {
+    "title": "Our Heritage",
+    "content": "Oak & Table was born from a simple desire: to bring the rich, comforting flavors of traditional Portuguese cooking into a modern, sophisticated setting. Located in historic Cascais, we source our ingredients locally and prepare every dish with respect for our culinary roots, paired with a curated selection of Portugal's finest wines."
+  },
+  "cta": {
+    "title": "Join Us at the Table",
+    "subtitle": "Book your table directly with us and enjoy a complimentary welcome drink upon arrival.",
+    "btn": "Reserve via WhatsApp"
+  },
+  "footer": {
+    "copyright": "Oak & Table. All rights reserved."
+  }
+}

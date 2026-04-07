@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "menu": "Menú",
+    "gallery": "Galería",
+    "story": "Nuestra Historia",
+    "reserve": "Reservar"
+  },
+  "hero": {
+    "title": "Donde la buena comida se encuentra con la buena compañía",
+    "subtitle": "Descubra la cocina portuguesa moderna en un ambiente elegante e íntimo en el corazón de Cascais.",
+    "cta": "Reservar vía WhatsApp"
+  },
+  "menu": {
+    "title": "Viaje Culinario",
+    "categories": {
+      "starters": "Entrantes",
+      "mains": "Platos Principales",
+      "desserts": "Postres",
+      "wines": "Vinos"
+    },
+    "items": {
+      "s1": { "name": "Carpaccio de Pulpo", "desc": "Pulpo en rodajas finas con pimentón ahumado y aceite de oliva.", "price": "€16" },
+      "s2": { "name": "Croquetas de Alheira", "desc": "Croquetas de embutido tradicional con alioli de mostaza.", "price": "€12" },
+      "s3": { "name": "Burrata e Higos", "desc": "Burrata fresca, higos asados, reducción balsámica y nueces.", "price": "€14" },
+      "m1": { "name": "Pluma de Cerdo Ibérico", "desc": "Pluma a la parrilla con puré de boniato y espárragos.", "price": "€28" },
+      "m2": { "name": "Lomo de Bacalao", "desc": "Bacalao confitado, patatas al puñetazo, ajo y grelos.", "price": "€26" },
+      "m3": { "name": "Risotto de Setas", "desc": "Arroz cremoso con setas de temporada y trufa.", "price": "€22" },
+      "d1": { "name": "Pastel de Nata Deconstruido", "desc": "Hojaldre crujiente, crema de yema y helado de canela.", "price": "€9" },
+      "d2": { "name": "Mousse de Chocolate", "desc": "Mousse de cacao 70% con flor de sal y chorrito de aceite de oliva.", "price": "€10" },
+      "d3": { "name": "Tarta de Almendra", "desc": "Tarta tradicional servida con sorbete de limón.", "price": "€8" },
+      "w1": { "name": "Vinha Grande Tinto", "desc": "Vino tinto. Notas de frutos negros con taninos elegantes.", "price": "€35" },
+      "w2": { "name": "Soalheiro Alvarinho", "desc": "Vino blanco. Fresco, mineral y equilibrado.", "price": "€28" },
+      "w3": { "name": "Cartuxa Colheita", "desc": "Vino tinto. Expresión vibrante de la región del Alentejo.", "price": "€42" }
+    }
+  },
+  "gallery": {
+    "title": "Ambiente"
+  },
+  "story": {
+    "title": "Nuestra Herencia",
+    "content": "Oak & Table nace de un deseo sencillo: llevar los ricos y reconfortantes sabores de la cocina tradicional portuguesa a un entorno moderno y sofisticado. Ubicados en la histórica ciudad de Cascais, obtenemos nuestros ingredientes localmente."
+  },
+  "cta": {
+    "title": "Únase a Nuestra Mesa",
+    "subtitle": "Reserve directamente con nosotros y disfrute de una bebida de cortesía a su llegada.",
+    "btn": "Reservar vía WhatsApp"
+  },
+  "footer": {
+    "copyright": "Oak & Table. Todos los derechos reservados."
+  }
+}

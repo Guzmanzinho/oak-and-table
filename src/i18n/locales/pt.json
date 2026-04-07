@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "gallery": "Galeria",
+    "story": "A Nossa História",
+    "reserve": "Reservar"
+  },
+  "hero": {
+    "title": "Onde a boa comida encontra a boa companhia",
+    "subtitle": "Descubra a cozinha portuguesa moderna num ambiente elegante e intimista no coração de Cascais.",
+    "cta": "Reservar via WhatsApp"
+  },
+  "menu": {
+    "title": "Viagem Culinária",
+    "categories": {
+      "starters": "Entradas",
+      "mains": "Pratos Principais",
+      "desserts": "Sobremesas",
+      "wines": "Vinhos"
+    },
+    "items": {
+      "s1": { "name": "Carpaccio de Polvo", "desc": "Polvo fatiado com paprica fumada e azeite.", "price": "€16" },
+      "s2": { "name": "Croquetes de Alheira", "desc": "Croquetes tradicionais com aioli de mostarda.", "price": "€12" },
+      "s3": { "name": "Burrata e Figos", "desc": "Burrata fresca, figos assados, redução balsâmica e nozes.", "price": "€14" },
+      "m1": { "name": "Pluma de Porco Preto", "desc": "Pluma grelhada com puré de batata doce e espargos.", "price": "€28" },
+      "m2": { "name": "Lombo de Bacalhau", "desc": "Bacalhau confitado, batata a murro, alho e grelos.", "price": "€26" },
+      "m3": { "name": "Risotto de Cogumelos", "desc": "Arroz cremoso com cogumelos da época e trufa.", "price": "€22" },
+      "d1": { "name": "Pastel de Nata Desconstruído", "desc": "Massa folhada estaladiça, creme de ovos e gelado de canela.", "price": "€9" },
+      "d2": { "name": "Mousse de Chocolate", "desc": "Mousse de cacau 70% com flor de sal e fio de azeite.", "price": "€10" },
+      "d3": { "name": "Tarte de Amêndoa", "desc": "Tarte tradicional servida com sorvete de limão.", "price": "€8" },
+      "w1": { "name": "Vinha Grande Douro Tinto", "desc": "Vinho tinto. Notas de frutos pretos com taninos elegantes.", "price": "€35" },
+      "w2": { "name": "Soalheiro Alvarinho", "desc": "Vinho branco. Fresco, mineral e perfeitamente equilibrado.", "price": "€28" },
+      "w3": { "name": "Cartuxa Colheita", "desc": "Vinho tinto. Uma expressão vibrante da região do Alentejo.", "price": "€42" }
+    }
+  },
+  "gallery": {
+    "title": "Ambiente"
+  },
+  "story": {
+    "title": "A Nossa Herança",
+    "content": "O Oak & Table nasceu de um desejo simples: trazer os sabores ricos e reconfortantes da cozinha tradicional portuguesa para um ambiente moderno e sofisticado. Localizado na histórica vila de Cascais, obtemos os nossos ingredientes localmente e preparamos cada prato com respeito pelas nossas raízes."
+  },
+  "cta": {
+    "title": "Junte-se à Nossa Mesa",
+    "subtitle": "Reserve a sua mesa diretamente connosco e desfrute de uma bebida de boas-vindas.",
+    "btn": "Reservar via WhatsApp"
+  },
+  "footer": {
+    "copyright": "Oak & Table. Todos os direitos reservados."
+  }
+}
