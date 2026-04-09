@@ -1,9 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-
-// Warm, candlelit fine dining — Unsplash
-const HERO_IMAGE =
-  'https://images.unsplash.com/photo-1414235077428-338988a2e8c0?auto=format&fit=crop&w=1200&q=85';
+import heroDish from '../assets/hero-dish.png';
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -101,7 +98,7 @@ export default function Hero() {
             {/* Image container */}
             <div className="relative z-10 rounded-2xl overflow-hidden aspect-[4/5] shadow-warm-lg">
               <img
-                src={HERO_IMAGE}
+                src={heroDish}
                 alt="Oak & Table — candlelit fine dining atmosphere"
                 loading="eager"
                 className="w-full h-full object-cover sepia-[0.18] brightness-90 contrast-[1.04] scale-[1.02]"

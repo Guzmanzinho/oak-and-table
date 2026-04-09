@@ -45,6 +45,34 @@
     "subtitle": "Reserve directamente con nosotros y disfrute de una bebida de cortesía a su llegada.",
     "btn": "Reservar vía WhatsApp"
   },
+  "location": {
+    "eyebrow": "Visítenos",
+    "title": "Horarios y Ubicación",
+    "hours": {
+      "title": "Horario de Apertura",
+      "closed": "Cerrado",
+      "note": "La cocina cierra 30 min antes del último horario indicado.",
+      "schedule": [
+        { "day": "Lunes",     "closed": true },
+        { "day": "Martes",    "time": ["12:00 – 15:00", "19:00 – 22:30"] },
+        { "day": "Miércoles", "time": ["12:00 – 15:00", "19:00 – 22:30"] },
+        { "day": "Jueves",    "time": ["12:00 – 15:00", "19:00 – 22:30"] },
+        { "day": "Viernes",   "time": ["12:00 – 15:00", "19:00 – 23:00"] },
+        { "day": "Sábado",    "time": ["12:00 – 15:30", "19:00 – 23:00"] },
+        { "day": "Domingo",   "time": "12:00 – 16:00" }
+      ]
+    },
+    "address": {
+      "title": "Encuéntrenos",
+      "street": "Rua Frederico Arouca, 24",
+      "city": "2750-353 Cascais, Portugal",
+      "map_btn": "Ver en Google Maps"
+    },
+    "phone": {
+      "label": "Reservas",
+      "whatsapp": "WhatsApp disponible"
+    }
+  },
   "footer": {
     "copyright": "Oak & Table. Todos los derechos reservados."
   }

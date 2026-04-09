@@ -4,6 +4,7 @@ import VisualMenu from './components/VisualMenu';
 import Gallery from './components/Gallery';
 import OurStory from './components/OurStory';
 import ReservationCTA from './components/ReservationCTA';
+import LocationHours from './components/LocationHours';
 import Footer from './components/Footer';
 
 export default function App() {
@@ -14,6 +15,7 @@ export default function App() {
       <VisualMenu />
       <Gallery />
       <OurStory />
+      <LocationHours />
       <ReservationCTA />
       <Footer />
     </div>

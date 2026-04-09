@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
+import signaturePlates from '../assets/signature-plates.png';
 
 // Six curated fine-dining / restaurant atmosphere shots from Unsplash
 const images = [
@@ -14,7 +15,7 @@ const images = [
     sub: 'Ambiance & light',
   },
   {
-    src: 'https://images.unsplash.com/photo-1414235077428-338988a2e8c0?auto=format&fit=crop&w=900&q=80',
+    src: signaturePlates,
     label: 'Signature Plates',
     sub: 'Farm to table',
   },
